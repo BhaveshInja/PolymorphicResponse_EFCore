@@ -136,7 +136,3 @@ Visit `https://localhost:<port>/swagger` for API docs.
 
 Pull requests, bug fixes, and ideas welcome. Let’s push the boundaries of clean API design in .NET together.
 
----
-
-## 📣 Credits
-Built with ❤️ by the .NET community for developers building enterprise-grade systems.
