@@ -7,6 +7,20 @@ This project showcases a production-grade implementation of **EF Core's Table-Pe
 
 ---
 
+## 📚 Table of Contents
+
+- [🔥 Overview](#-overview)
+- [🎯 Features](#-features)
+- [🧩 Sample Entities](#-sample-entities)
+- [🔁 Polymorphic Serialization with JsonPolymorphic](#-polymorphic-serialization-with-jsonpolymorphic)
+- [🔄 AutoMapper DTO Mapping](#-automapper-dto-mapping)
+- [🔁 API Response Format](#-api-response-format)
+- [🛠️ Technologies](#️-technologies)
+- [🚀 Running the Project](#-running-the-project)
+- [💡 Contributing](#-contributing)
+
+---
+
 ## 🎯 Features
 
 - ✅ **Table-Per-Concrete (TPC)** inheritance mapping using `UseTpcMappingStrategy()`
