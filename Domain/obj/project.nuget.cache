@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TVqHe8O8TNc=",
+  "success": true,
+  "projectFilePath": "/Users/bhaveshinjamara/Programs/dotnet/EF Core/PolymorphicResponse_API/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/bhaveshinjamara/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/bhaveshinjamara/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

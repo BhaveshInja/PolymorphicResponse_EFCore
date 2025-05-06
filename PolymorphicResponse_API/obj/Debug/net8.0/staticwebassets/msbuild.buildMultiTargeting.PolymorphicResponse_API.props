@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PolymorphicResponse_API.props" />
+</Project>

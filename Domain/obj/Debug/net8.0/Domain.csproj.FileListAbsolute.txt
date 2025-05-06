@@ -1,0 +1,11 @@
+C:\Users\a1320\source\repos\PolymorphicResponse_API\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\a1320\source\repos\PolymorphicResponse_API\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\a1320\source\repos\PolymorphicResponse_API\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\a1320\source\repos\PolymorphicResponse_API\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a1320\source\repos\PolymorphicResponse_API\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\a1320\source\repos\PolymorphicResponse_API\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\a1320\source\repos\PolymorphicResponse_API\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\a1320\source\repos\PolymorphicResponse_API\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\a1320\source\repos\PolymorphicResponse_API\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\a1320\source\repos\PolymorphicResponse_API\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\a1320\source\repos\PolymorphicResponse_API\Domain\obj\Debug\net8.0\ref\Domain.dll
