@@ -109,7 +109,6 @@ builder.Services.AddAutoMapper(typeof(Program));
 - `System.Text.Json` with polymorphic attributes
 - AutoMapper
 - Swagger / Swashbuckle
-- xUnit for testing
 
 ---
 
@@ -121,14 +120,6 @@ cd src/EfCoreTPC.Api
 dotnet run
 ```
 Visit `https://localhost:<port>/swagger` for API docs.
-
----
-
-## 📌 Next Steps
-
-- Add `SoftDelete` support
-- Integrate caching (e.g., `IMemoryCache` or Redis)
-- Event-driven design with MediatR or MassTransit
 
 ---
 
